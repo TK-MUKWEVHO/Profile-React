@@ -1,0 +1,17 @@
+.aboutDiv{ 
+  padding-top: 80px;
+  position: relative;
+  display: flex;
+  background: pink;
+  height: 450px;
+}
+.name h1{
+    margin: 0;
+}
+.name{
+    position: absolute;
+    top: 20%;
+    left: 3%;
+    color: green;
+    width: 30%;
+}
