@@ -2,16 +2,35 @@
   padding-top: 80px;
   position: relative;
   display: flex;
-  background: pink;
   height: 450px;
 }
 .name h1{
     margin: 0;
+    font-family: 'Lobster', cursive;
+    font-weight: 20px;
+    font-size: 45px;
+    color: white;
 }
 .name{
     position: absolute;
     top: 20%;
     left: 3%;
     color: green;
-    width: 30%;
+    width: 50%;
+}
+.name p{
+    position: absolute;
+    left: 3%;
+    color: floralwhite;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 1.5rem;
+
+}
+.image{
+    height: 75%;
+    position: absolute;
+    right: 6%;
+    top: 15%;
+    color: white;
+   
 }

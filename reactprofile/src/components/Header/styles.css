@@ -1,0 +1,19 @@
+.cont{
+   display: flex; 
+   position: relative;
+   justify-content: center;
+   align-items: center;
+   padding-bottom: 1%;
+}
+.cont hr{
+    position: absolute;
+    left: 0%;
+    width: 100px;
+    border: 1px solid pink;
+}
+.cont h1{
+    color: white;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 0.5rem;
+    
+}
