@@ -5,7 +5,7 @@
    align-items: center;
    padding-bottom: 1%;
 }
-.cont hr{
+.hr{
     position: absolute;
     left: 0%;
     width: 100px;
@@ -15,5 +15,5 @@
     color: white;
     font-family: 'Yanone Kaffeesatz', sans-serif;
     font-size: 0.5rem;
-    
+
 }

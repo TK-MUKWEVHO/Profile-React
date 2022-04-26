@@ -1,9 +1,12 @@
 import React from 'react'
-import Header from '../Header/Header'
 
 const Skills = () => {
   return (
-    <Header title={'Skills'}/>
+    <div className="container">
+        <hr className="hr"/>
+        <h1>Skills</h1>
+    </div>  
+
 
   )
 }
